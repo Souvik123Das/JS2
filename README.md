@@ -1,1 +1,1 @@
-# JS2
+This is our college project
